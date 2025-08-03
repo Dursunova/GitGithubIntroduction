@@ -1,3 +1,4 @@
 Name --- Nergiz
 Surname --- Dursunova
 Age --- 20
+University --- ADNSU
